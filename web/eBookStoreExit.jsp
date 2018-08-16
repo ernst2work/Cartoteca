@@ -13,6 +13,7 @@
         <title>Exit</title>
         <link rel="stylesheet" type="text/css" href="./css/eBookStoreCSS.css">
     </head>
+    
     <body>
         <%-- test if a valid user is logged in --%>
         <c:choose>
